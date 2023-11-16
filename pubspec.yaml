@@ -1,6 +1,6 @@
 name: monstarlab_lints
 description: Flutter lint rules used in Monstarlab EMEA.
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/monstar-lab-oss/flutter_lints
 repository: https://github.com/monstar-lab-oss/flutter_lints
 issue_tracker: https://github.com/monstar-lab-oss/flutter_lints/issues

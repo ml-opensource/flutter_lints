@@ -1,3 +1,7 @@
+## 1.0.2
+
+* Add platforms information to pub.dev
+
 ## 1.0.1
 
 * Typo fix.
