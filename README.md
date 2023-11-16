@@ -2,7 +2,7 @@
 
 Set of [Flutter](https://flutter.dev) lint rules used by [Monstarlab](https://monstar-lab.com/global). Built on top of the [officially recommended](https://pub.dev/packages/flutter_lints) Flutter rules.
 
-- All the Flutter existing lint rules are listed on [this page](https://dart.dev/tools/linter-rules).
+- All the existing Flutter lint rules are listed on [this page](https://dart.dev/tools/linter-rules).
 - Check out our [Flutter template](https://github.com/monstar-lab-oss/flutter-template).
 
 ## Usage
