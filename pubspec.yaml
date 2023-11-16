@@ -1,0 +1,19 @@
+name: monstarlab_lints
+description: Flutter lint rules used in Monstarlab EMEA.
+version: 1.0.0
+homepage: https://github.com/monstar-lab-oss/flutter_lints
+repository: https://github.com/monstar-lab-oss/flutter_lints
+issue_tracker: https://github.com/monstar-lab-oss/flutter_lints/issues
+documentation: https://github.com/monstar-lab-oss/flutter_lints
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+topics:
+  - lints
+  - analysis
+  - analyzer
