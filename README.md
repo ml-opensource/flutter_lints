@@ -30,6 +30,10 @@ Modify your [`analysis_options.yaml`](https://dart.dev/tools/analysis#the-analys
 include: package:monstarlab_lints/analysis_options.yaml
 ```
 
+## Maintaining
+
+To publish a new version to pub.dev, create a new tag with required version used as a title. For example, creating a tag `1.0.3` will result in pushing the package to pub.dev with version `1.0.3`.
+
 
 <!-- References -->
 [pub-version-img]: https://img.shields.io/badge/pub-v1.0.2-0175c2?logo=flutter
