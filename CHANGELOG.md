@@ -29,6 +29,7 @@ Add new linter rules:
 - [unnecessary_parenthesis](https://dart.dev/tools/linter-rules/unnecessary_parenthesis) — Removes brackets
 
 - [unnecessary_statements](https://dart.dev/tools/linter-rules/unnecessary_statements) — Avoids having statements that return a result but aren't used.
+
 - [unreachable_from_main](https://dart.dev/tools/linter-rules/unreachable_from_main) — Any member declared in an executable library should be used directly inside that library.
 
 ## 1.0.2
