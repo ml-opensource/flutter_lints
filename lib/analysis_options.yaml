@@ -6,7 +6,6 @@ linter:
     # https://dart.dev/tools/linter-rules
     - always_declare_return_types
     - always_put_control_body_on_new_line
-    - always_require_non_null_named_parameters
     - always_use_package_imports
     - annotate_overrides
     - avoid_init_to_null
@@ -34,6 +33,7 @@ linter:
     - library_prefixes
     - matching_super_parameters
     - no_duplicate_case_values
+    - non_constant_identifier_names
     - no_logic_in_create_state
     - no_self_assignments
     - null_closures
