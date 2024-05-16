@@ -1,9 +1,17 @@
+# Changelog
+
+## 1.0.4
+
+Add new linter rules:
+
+- [non_constant_identifier_names](https://dart.dev/tools/linter-rules/non_constant_identifier_names) — helps to maintain naming conventions.
+
 ## 1.0.3
 
 Add new linter rules:
 
 - [always_put_control_body_on_new_line](https://dart.dev/tools/linter-rules/always_put_control_body_on_new_line) — Along with curly_braces_in_flow_control_structures will help us to create flow breakers more organically (e.g. avoid having `if (..) return;`)
-    
+
 - [avoid_slow_async_io](https://dart.dev/tools/linter-rules/avoid_slow_async_io) — Instead of using certain async IO function, dart suggests to use their sync alternatives
 
 - [directives_ordering](https://dart.dev/tools/linter-rules/directives_ordering) — Sort imports
@@ -34,12 +42,12 @@ Add new linter rules:
 
 ## 1.0.2
 
-* Add platforms information to pub.dev
+- Add platforms information to pub.dev
 
 ## 1.0.1
 
-* Typo fix.
+- Typo fix.
 
 ## 1.0.0
 
-* Initial release.
+- Initial release.
