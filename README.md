@@ -19,7 +19,7 @@ Or add it to the `pubspec.yaml` yourself:
 
 ```yaml
 dev_dependencies:
-  monstarlab_lints: ^1.0.3
+  monstarlab_lints: ^1.0.4
 ```
 
 ### Configure analysis options
@@ -34,7 +34,6 @@ include: package:monstarlab_lints/analysis_options.yaml
 
 To publish a new version to pub.dev, create a new tag with required version used as a title. For example, creating a tag `1.0.3` will result in pushing the package to pub.dev with version `1.0.3`.
 
-
 <!-- References -->
-[pub-version-img]: https://img.shields.io/badge/pub-v1.0.3-0175c2?logo=flutter
+[pub-version-img]: https://img.shields.io/badge/pub-v1.0.4-0175c2?logo=flutter
 [pub-version-url]: https://pub.dev/packages/monstarlab_lints
